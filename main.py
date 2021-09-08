@@ -1,4 +1,4 @@
-# Like and subscribe!
+# Kiolesis
 # https://www.youtube.com/watch?v=-lefbawmaFk
 import os # Import OS
 import hashlib # Import HASHLIB
